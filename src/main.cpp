@@ -1,6 +1,6 @@
 //
 //include all the necessary libraries
-#include <Arduino.h> //arduino library when using VSCode PlatformIO
+#include <Arduino.h> //arduino library when using VSCode PlatformIO, comment out or delete if using Arduino IDE
 #include <SPI.h> //SPI library for Arduino
 #include <RF24.h> //RF24 library for Arduino
 
